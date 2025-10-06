@@ -2,7 +2,7 @@
    <img  height="400px" width="400px" align="right" alt="code.gif" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
 </div> 
 <h1>💫 About Me:</h1>
-Hi 👋, I'm Mayan Pipaliya<br><br>A passionate BCA Student | Front-end Development Enthusiast | Lifelong Learner
+Hi 👋, I'm Mayan Pipaliya<br><br>A passionate BCA Student | Full-stack Development Enthusiast | Lifelong Learner
 
 
 [![](https://visitcount.itsvg.in/api?id=MayanPipaliya&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
